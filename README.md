@@ -1,6 +1,6 @@
 # landing-page-con-bootstrap
 
-_¡Hola! Soy tu readme a partir de ahora nos vamos a acostumbrar a leer los archivos readme de cualquier proyecto de GITHUB. ._ ¡Empecemos!🚀
+_¡Hola! Soy tu readme a partir de ahora vamos a acostumbrar a leer los archivos readme de cualquier proyecto de GITHUB. ._ ¡Empecemos!🚀
 
 ### Objetivos de este ejercicio:
 * Aprender a integrar bootstrap en un proyecto web
