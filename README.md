@@ -12,7 +12,7 @@ _¡Hola! Soy tu readme a partir de ahora vamos a acostumbrar a leer los archivos
 
 ### Pre-requisitos importantes antes de comenzar el desarrollo📋
 
-_Recuerda que para integrar los estilos CSS de bootstrap lo debemos hacer integrando la siguiente etiqueta en  < HEAD >_ :
+_Recuerda que para integrar los estilos CSS de bootstrap lo haremos integrando la etiqueta descrita abajo en  < HEAD >_ :
 
 ```
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
